@@ -75,7 +75,7 @@
 </tr>
 <tr style="height: 24px;">
 <td style="width: 28.5714%; height: 24px;"><a href="./Linear Search">Linear Search</a></td>
-<td class="text-center" style="width: 4.43349%; height: 24px;"></td>
+<td class="text-center" style="width: 4.43349%; height: 24px;"><p>✅</p></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
@@ -88,7 +88,7 @@
 </tr>
 <tr style="height: 24px;">
 <td style="width: 28.5714%; height: 24px;">Reverse array</td>
-<td class="text-center" style="width: 4.43349%; height: 24px;"></td>
+<td class="text-center" style="width: 4.43349%; height: 24px;"><p>✅</p></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
