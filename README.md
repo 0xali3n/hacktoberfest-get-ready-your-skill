@@ -210,7 +210,7 @@
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
-<td class="text-center" style="width: 6.56814%; height: 24px;"></td>
+<td class="text-center" style="width: 6.56814%; height: 24px;">✅</td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
