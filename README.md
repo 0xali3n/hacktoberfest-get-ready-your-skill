@@ -65,7 +65,7 @@
 <td class="text-center" style="width: 4.43349%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
-<td class="text-center" style="width: 6.07553%; height: 24px;"></td>
+<td class="text-center" style="width: 6.07553%; height: 24px;">Done</td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
@@ -78,7 +78,7 @@
 <td class="text-center" style="width: 4.43349%; height: 24px;"><p>✅</p></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
-<td class="text-center" style="width: 6.07553%; height: 24px;"></td>
+<td class="text-center" style="width: 6.07553%; height: 24px;">Done</td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
@@ -91,7 +91,7 @@
 <td class="text-center" style="width: 4.43349%; height: 24px;"><p>✅</p></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
-<td class="text-center" style="width: 6.07553%; height: 24px;"></td>
+<td class="text-center" style="width: 6.07553%; height: 24px;">Done</td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
@@ -156,7 +156,7 @@
 <td class="text-center" style="width: 4.43349%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
-<td class="text-center" style="width: 6.07553%; height: 24px;"></td>
+<td class="text-center" style="width: 6.07553%; height: 24px;">Done</td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
@@ -195,7 +195,7 @@
 <td class="text-center" style="width: 4.43349%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
-<td class="text-center" style="width: 6.07553%; height: 24px;"></td>
+<td class="text-center" style="width: 6.07553%; height: 24px;">Done</td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
@@ -234,7 +234,7 @@
 <td class="text-center" style="width: 4.43349%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
-<td class="text-center" style="width: 6.07553%; height: 24px;"></td>
+<td class="text-center" style="width: 6.07553%; height: 24px;">Done</td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
@@ -247,7 +247,7 @@
 <td class="text-center" style="width: 4.43349%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
-<td class="text-center" style="width: 6.07553%; height: 24px;"></td>
+<td class="text-center" style="width: 6.07553%; height: 24px;">Done</td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
@@ -312,7 +312,7 @@
 <td class="text-center" style="width: 4.43349%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
-<td class="text-center" style="width: 6.07553%; height: 24px;"></td>
+<td class="text-center" style="width: 6.07553%; height: 24px;">Done</td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
