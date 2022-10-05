@@ -374,7 +374,7 @@
 </tr>
 <tr style="height: 24px;">
 <td style="width: 28.5714%; height: 24px;">Copy files</td>
-<td class="text-center" style="width: 4.43349%; height: 24px;"></td>
+<td class="text-center" style="width: 4.43349%; height: 24px;">✅</td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
