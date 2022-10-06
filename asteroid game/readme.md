@@ -1,0 +1,1 @@
+Ptolem and Neil making experiments about the asteroids collision. Each asteroid will be having Size with a sign representing its direction (positive meaning right, negative meaning left). Both of them are provided with the stack of N aseroids. Ptolem and Neil pick asteroids Size from their stacks.
