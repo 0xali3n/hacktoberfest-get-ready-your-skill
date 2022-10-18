@@ -62,7 +62,7 @@
 </tr>
 <tr style="height: 24px;">
 <td style="width: 28.5714%; height: 24px;"><a href="./Min &amp; Max">Min &amp; Max array</a></td>
-<td class="text-center" style="width: 4.43349%; height: 24px;"></td>
+<td class="text-center" style="width: 4.43349%; height: 24px;">✅</td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;">Done</td>
@@ -95,7 +95,7 @@
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
-<td class="text-center" style="width: 6.07553%; height: 24px;"></td>
+<td class="text-center" style="width: 6.07553%; height: 24px;"><p>✅</p></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 13.3005%; height: 24px;"></td>
 </tr>
@@ -191,8 +191,8 @@
 <td class="text-center" style="width: 13.3005%; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 28.5714%; height: 24px;">Count char string</td>
-<td class="text-center" style="width: 4.43349%; height: 24px;"></td>
+<td style="width: 28.5714%; height: 24px;"><a href="./Count char in String">Count char in string</a></td>
+<td class="text-center" style="width: 4.43349%; height: 24px;"><p>✅</p></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;">Done</td>
@@ -238,7 +238,7 @@
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
-<td class="text-center" style="width: 6.07553%; height: 24px;"></td>
+<td class="text-center" style="width: 6.07553%; height: 24px;"><p>✅</p></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 13.3005%; height: 24px;"></td>
 </tr>
@@ -543,7 +543,9 @@
 </tr>
 <tr style="height: 24px;">
 <td style="width: 28.5714%; height: 24px;">Infix to postfix</td>
+
 <td class="text-center" style="width: 4.43349%; height: 24px;"><p>✅<p></td>
+
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
